@@ -6,13 +6,14 @@
 
 h1{
     color:white;
+    
 }
 
 .nav {
     position: absolute;
-    bottom:400px;
+    bottom:200px;
 }
 a {
 text-decoration: none;
-color:white;
+color:rgb(247, 218, 218);
 }
