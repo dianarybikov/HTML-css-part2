@@ -19,3 +19,8 @@ text-decoration: none;
 color:rgb(247, 218, 218);
 }
 
+.company {
+    position: absolute;
+    left: 500px;
+    top:100px;
+}
