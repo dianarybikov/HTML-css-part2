@@ -24,3 +24,10 @@ color:rgb(247, 218, 218);
     left: 500px;
     top:100px;
 }
+
+p {
+    color:white;
+    position: absolute;
+    left:480px;
+    top:150px;
+}
